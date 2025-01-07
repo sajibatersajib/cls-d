@@ -1,0 +1,28 @@
+div h1{
+    color: blueviolet;
+    border: 2px solid red;
+    padding: 10px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+form{
+    border: 2px solid red;
+    padding: 10px;
+}
+input{
+    width: 40%;
+    height: 20px;
+    padding: 2px;
+}
+input::placeholder{
+    font-size: 20px;
+    color: red;
+    opacity: 0.6;
+}
+.youtube{
+    width: 560px;
+    height:360px;
+}
